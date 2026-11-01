@@ -1,0 +1,14 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello William!");
+
+        System.out.println("Welcome to Java programming.");
+
+        int age = 19;
+
+        System.out.println("My age is " + age);
+
+    }
+}
